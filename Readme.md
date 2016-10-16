@@ -1,7 +1,8 @@
+
 # Личный проект «Кекстаграм» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
 * Студент: [Гиляна Саранова](https://up.htmlacademy.ru/javascript/7/user/200935).
-* Наставник: `Неизвестно`.
+* Наставник: `Без наставника`.
 
 ---
 
